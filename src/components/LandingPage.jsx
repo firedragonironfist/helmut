@@ -93,7 +93,7 @@ const LandingPage = () => {
             <a href="/test.pdf" download style={{ marginRight: '10px' }}>
                 Download PDF
             </a>
-            <Link className="underline font-semibold" href={"https://addthelinkhere.com"}>
+            <Link className="underline font-semibold" href={"https://firedragonironfist.github.io/helmut/"}>
                 website-link
             </Link>
             </footer>
