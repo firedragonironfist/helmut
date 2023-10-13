@@ -93,9 +93,6 @@ const LandingPage = () => {
             <a href="/test.pdf" download style={{ marginRight: '10px' }}>
                 Download PDF
             </a>
-            <Link className="underline font-semibold" href={"https://helmut-ten.vercel.app/"}>
-                website-link
-            </Link>
             </footer>
         </>
     )
