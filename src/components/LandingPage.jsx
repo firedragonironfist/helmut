@@ -19,9 +19,10 @@ const LandingPage = () => {
             <Image
                         width={200}  
                         height={200}  
-                        src="/Logo.png"  
+                        src="https://firedragonironfist.github.io/helmut/Logo.png"  
                         alt="Company Logo"
                         style={{ alignSelf: 'center', margin: '0 auto' }}
+                        unoptimized
             />
             <div></div><br /><br />
                 <div></div><br /><br />
@@ -50,9 +51,10 @@ const LandingPage = () => {
                      <Image
         	            width={400}
                         height={612}
-                        src="/helmut.jpg"
+                        src="https://firedragonironfist.github.io/helmut/helmut.jpg"
                         style={{ alignSelf: 'flex-start', margin: '0 auto' }}
                         alt="Owner and Consultant"
+                        unoptimized
                     />    
                 </div>
 
