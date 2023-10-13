@@ -90,14 +90,12 @@ const LandingPage = () => {
             </div>
             <footer className="text-sm text-center">
              
-            <a href="/test.pdf" download>
-            Download PDF
+            <a href="/test.pdf" download style={{ marginRight: '10px' }}>
+                Download PDF
             </a>
-                ......................
-                <Link className="underline font-semibold" href={"https://addthelinkhere.com"}>
-                    ofcourse change as you wish
-                </Link>
-
+            <Link className="underline font-semibold" href={"https://addthelinkhere.com"}>
+                website-link
+            </Link>
             </footer>
         </>
     )
